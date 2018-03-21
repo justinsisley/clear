@@ -1,0 +1,44 @@
+{
+  "name": "@jsisley/clear",
+  "version": "0.1.0",
+  "description": "A minimalist Node.js server starter-kit",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "nodemon --watch src --exec babel-node src/index.js",
+    "build":
+      "NODE_ENV=production babel src --out-dir dist --ignore '**/*.test.js'",
+    "start": "node dist/index.js",
+    "lint": "eslint src/**",
+    "test": "jest src",
+    "precommit": "lint-staged"
+  },
+  "dependencies": {
+    "axios": "0.18.0",
+    "express": "4.16.3",
+    "helmet": "3.12.0",
+    "morgan": "1.9.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.0.0-beta.42",
+    "@babel/core": "7.0.0-beta.42",
+    "@babel/node": "7.0.0-beta.42",
+    "@babel/plugin-proposal-class-properties": "7.0.0-beta.42",
+    "@babel/plugin-proposal-optional-chaining": "7.0.0-beta.42",
+    "@babel/preset-env": "7.0.0-beta.42",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "8.2.1",
+    "babel-plugin-syntax-trailing-function-commas": "6.22.0",
+    "babel-plugin-transform-async-to-generator": "6.24.1",
+    "babel-preset-stage-0": "7.0.0-beta.3",
+    "eslint": "4.19.0",
+    "eslint-config-airbnb": "16.1.0",
+    "eslint-plugin-import": "2.9.0",
+    "eslint-plugin-jsx-a11y": "6.0.3",
+    "eslint-plugin-react": "7.7.0",
+    "husky": "^0.14.3",
+    "jest": "22.4.2",
+    "lint-staged": "^7.0.0",
+    "nodemon": "1.17.2",
+    "prettier": "1.11.1"
+  }
+}

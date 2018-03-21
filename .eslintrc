@@ -1,0 +1,13 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "extends": "airbnb",
+  "globals": {
+    "expect": true,
+    "jest": true,
+    "sum": true,
+    "test": true
+  }
+}
