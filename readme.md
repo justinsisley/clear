@@ -14,7 +14,7 @@
 
 ---
 
-[Changelog](https://github.paypal.com/jsisley/clear/releases)
+[Changelog](https://github.com/justinsisley/clear/releases)
 
 ---
 
