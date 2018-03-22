@@ -10,6 +10,8 @@
   A translucent Node.js server starter-kit
   <br>
   <a href="https://expressjs.com/" target="_blank">Express</a> + <a href="https://babeljs.io/" target="_blank">Babel</a> + <a href="https://prettier.io/" target="_blank">Prettier</a> + <a href="https://eslint.org/" target="_blank">ESLint</a> + <a href="https://facebook.github.io/jest/" target="_blank">Jest</a>
+
+  [![GitHub release](https://img.shields.io/github/release/justinsisley/clear.svg?style=for-the-badge)](https://github.com/justinsisley/clear) [![Codeship](https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1.svg?style=for-the-badge)](https://app.codeship.com/projects/282681) [![license](https://img.shields.io/github/license/justinsisley/clear.svg?style=for-the-badge)](https://github.com/justinsisley/clear)
 </p>
 
 ---
@@ -33,7 +35,7 @@
 Clone the repo via git:
 
 ```bash
-git clone --depth=1 https://github.paypal.com/jsisley/clear.git your-project-name
+git clone --depth=1 https://github.com/justinsisley/clear.git your-project-name
 ```
 
 Initialize your own git repository:
