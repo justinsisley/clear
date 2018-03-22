@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/justinsisley/clear"><img src="https://img.shields.io/github/release/justinsisley/clear.svg?style=for-the-badge" alt="GitHub release"></a> <a href="https://travis-ci.org/justinsisley/clear"><img src="https://img.shields.io/travis/justinsisley/clear.svg?style=for-the-badge" alt="Travis"></a> <a href="https://github.com/justinsisley/clear/blob/master/license"><img src="https://img.shields.io/github/license/justinsisley/clear.svg?style=for-the-badge" alt="license"></a>
+  <img src="https://img.shields.io/github/release/justinsisley/clear.svg?style=for-the-badge" alt="GitHub release" /> <a href="https://travis-ci.org/justinsisley/clear"><img src="https://img.shields.io/travis/justinsisley/clear.svg?style=for-the-badge" alt="Travis" /></a> <img src="https://img.shields.io/github/license/justinsisley/clear.svg?style=for-the-badge" alt="license" />
 </p>
 
 ---
