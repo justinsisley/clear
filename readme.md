@@ -10,8 +10,10 @@
   A translucent Node.js server starter-kit
   <br>
   <a href="https://expressjs.com/" target="_blank">Express</a> + <a href="https://babeljs.io/" target="_blank">Babel</a> + <a href="https://prettier.io/" target="_blank">Prettier</a> + <a href="https://eslint.org/" target="_blank">ESLint</a> + <a href="https://facebook.github.io/jest/" target="_blank">Jest</a>
+</p>
 
-  [![GitHub release](https://img.shields.io/github/release/justinsisley/clear.svg?style=for-the-badge)](https://github.com/justinsisley/clear) [![Codeship](https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1.svg?style=for-the-badge)](https://app.codeship.com/projects/282681) [![license](https://img.shields.io/github/license/justinsisley/clear.svg?style=for-the-badge)](https://github.com/justinsisley/clear)
+<p align="center">
+  <a href="https://github.com/justinsisley/clear"><img src="https://img.shields.io/github/release/justinsisley/clear.svg?style=for-the-badge" alt="GitHub release"></a> <a href="https://app.codeship.com/projects/282681"><img src="https://img.shields.io/codeship/96d83210-102a-0136-36eb-7e4a89c683ae.svg?style=for-the-badge" alt="Codeship"></a> <a href="https://github.com/justinsisley/clear/blob/master/license"><img src="https://img.shields.io/github/license/justinsisley/clear.svg?style=for-the-badge" alt="license"></a>
 </p>
 
 ---
